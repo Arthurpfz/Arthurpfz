@@ -1,6 +1,6 @@
 ### Hi, I'm Arthur
 
-Head of Product at [Iron](https://iron.xyz) (acquired by [MoonPay](https://moonpay.com)) in Berlin. I build tools and automations to solve problems I care about.
+Dir of Product at [Iron](https://iron.xyz) (acquired by [MoonPay](https://moonpay.com)) in Berlin. I build tools and automations to solve problems I care about.
 
 #### What I build
 
